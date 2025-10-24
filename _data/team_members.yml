@@ -121,6 +121,13 @@
   number_educ: 1
   education1: Master Physics TUM, with Kiutra
 
+- name: Anna Tymofieieva
+  photo: anna.png
+  info: Admin
+  email: Bastiaans@Physics.LeidenUniv.nl
+  number_educ: 1
+  education1: Nationale Pädagogische H.-S.-Skoworoda-Universität, Charkiw
+
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
