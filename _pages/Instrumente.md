@@ -1,5 +1,5 @@
----
-title: "Allan Lab - Instrumente"
+<!-- ---
+title: "PHERL Lab - Instrumente"
 layout: textlay
 excerpt: "AOA"
 sitemap: false
@@ -21,4 +21,4 @@ permalink: /instrumente.html
 
 
 ### Rastertunnelmikroskop "Tama" 
-![image](/images/inst/tama.jpeg){:class="img-responsive" width="75%"}
+![image](/images/inst/tama.jpeg){:class="img-responsive" width="75%"} -->
