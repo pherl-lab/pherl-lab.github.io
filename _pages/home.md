@@ -12,10 +12,9 @@ We are a Human-Robot Collaborative Control and Robot Learning research group in 
 
 Our goal is to develop principled, structured methods to enable *seamless, adaptive human-robot interaction and collaboration*. We explore human-robot interaction and collaboration through the lens of robot learning and optimal control. We develop useful algorithmic interfaces for humans to intuitively interact with and control complex, dynamic robotic systems. 
 
+I am currently building up my lab in the University of Sydney, right in the heart of Sydney. We will exchange ideas with [world class roboticists] here at USyd and their research groups. I am also a proud member of the [Australian Center for Robotics](https://superc2033.com/our-team/).
 
-We are currently building up our lab in the University of Sydney, right in the heart of Sydney. We will exchange ideas with [world class roboticists] here at USyd and their research groups. We are also a proud member of the [Australian Center for Robotics](https://superc2033.com/our-team/).
-
-**We are looking for passionate new PhD, Masters, and Undergraduate students to join the team!** [(more info)](https://pherl-lab.github.io/pherl-lab/vacancies) **!**
+**I am looking for passionate new PhD, Masters, and Undergraduate students to join the team!** [(more info)](https://pherl-lab.github.io/pherl-lab/vacancies) **!**
 
 
 
