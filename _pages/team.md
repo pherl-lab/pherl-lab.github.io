@@ -3,7 +3,7 @@ title: "PHERL Lab - Team"
 layout: gridlay
 excerpt: "PHERL Lab: Team members"
 sitemap: false
-permalink: pherl-lab/team/
+permalink: /team/
 ---
 
 # Group Members
